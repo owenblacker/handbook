@@ -7,18 +7,16 @@ looking for more responsibilities.
 
 ## Our roles
 
-### Technology
+### Cloud & Engineering
 
- - [Academy Software Engineer](academy_software_engineer.md) ([SFIA Level 1](sfia/academy_software_engineer.md))
- - [Software Engineer 1](software_engineer_1.md) ([SFIA Level 2](sfia/software_engineer_1.md))
- - [Software Engineer 2](software_engineer_2.md) ([SFIA Level 3](sfia/software_engineer_2.md))
- - [Senior Software Engineer](senior_software_engineer.md) ([SFIA Level 4](sfia/senior_software_engineer.md))
- - [Lead Software Engineer](lead_software_engineer.md) ([SFIA Level 5](sfia/lead_software_engineer.md))
- - [Principal Technologist](principal_technologist.md) ([SFIA Level 6](sfia/principal_technologist.md))
-
-You may have seen that we have people in Tech Lead and Tech Architect roles. These are hats worn by Senior and Lead Engineers.
-
-We advertise Cloud/DevOps Engineer and Data Engineer roles on our careers page, recruitment platforms and social media to find people with specific experience in these areas. These roles do not reflect our internal structure as we have a single software engineer pathway. Our software engineers can stay broad or choose to specialise in a number of technologies and areas of expertise.
+ - [Academy Software Engineer](academy_software_engineer.md) [(SFIA Level 1)](https://sfia-online.org/en/sfia-8/responsibilities/level-1)
+ - [Associate Software Engineer](associate_software_engineer.md) [(SFIA Level 2)](https://sfia-online.org/en/sfia-8/responsibilities/level-2)
+ - [Software Engineer](software_engineer.md) [(SFIA Level 3)](https://sfia-online.org/en/sfia-8/responsibilities/level-3)
+ - [Senior Software Engineer](senior_software_engineer.md) [(SFIA Level 4)](https://sfia-online.org/en/sfia-8/responsibilities/level-4)
+ - [Lead Software Engineer](lead_software_engineer.md) [(SFIA Level 5)](https://sfia-online.org/en/sfia-8/responsibilities/level-5)
+ - [Principal Software Engineer](principal_software_engineer.md) [(SFIA Level 6)](https://sfia-online.org/en/sfia-8/responsibilities/level-6) 
+ - [Principal Cloud Engineer](principal_cloud_engineer.md) [(SFIA Level 6)](https://sfia-online.org/en/sfia-8/responsibilities/level-6)
+ - [Principal Technical Architect](principal_technical_architect.md) [(SFIA Level 6)](https://sfia-online.org/en/sfia-8/responsibilities/level-6)
 
 ### Delivery
 
